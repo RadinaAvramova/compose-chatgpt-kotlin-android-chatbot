@@ -108,7 +108,3 @@ The project also contains other files and directories at the root level, includi
 - Retrofit
 - [OpenAI GPT-3 API](https://beta.openai.com/docs/api-reference/introduction)
 - [Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-overview.html)
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=lambiengcode/compose-chatgpt-kotlin-android-chatbot&type=Date)](https://star-history.com/#lambiengcode/compose-chatgpt-kotlin-android-chatbot&Date)
